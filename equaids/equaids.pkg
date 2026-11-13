@@ -1,3 +1,10 @@
-D 'xtcce': Common Correlated Effects Estimation for Static/Dynamic Panels with Cross-Sectional Dependence Use xtcce With STATA 19
-F xtcce.ado
-F xtcce.sthlp
+D 'equaids': AIDS and QUAIDS demand systems, with elasticities of the households, the individuals or the market, and survey-design inference Use equaids With STATA 19
+F _equaids_pimpute.ado
+F _equaids_tabstars.ado
+F equaids.ado
+F equaids.dlg
+F equaids.sthlp
+F equaids_estat.ado
+F equaids_examples.ado
+F equaidsdiag.ado
+F equaidsdiag.sthlp

@@ -1,6 +1,8 @@
 # equaids
 AIDS and QUAIDS demand systems, with elasticities of the households, the individuals or the market, and survey-design inference Use equaids With STATA 19
 
+https://www.youtube.com/watch?v=OuZ7_ieSRto
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
